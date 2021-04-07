@@ -42,11 +42,11 @@
 
 
   /*==| MODS |==*/
-/*cruxie*/
-.avatar-1BDn8e[src*="332394843743584256"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+/*FourInchKnife*/
+.avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
   background-image: url('https://codedotspectra.github.io/themes/badges/sword.svg');}
-.avatar-1BDn8e[src*="332394843743584256"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
-  content: "Best Boi Mod";
+.avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "Absolute Gamer";
   animation: fadeIn .5s linear 1;
   color: #ff8080;
   width: 75px;
@@ -66,8 +66,7 @@
   animation: scaleIn .2s linear 1, rainbow 2s linear infinite;
 }
 
-  /*==|STREAMERS|==*/
-/* RubenSaurus */
+  /*==|STREAMERS|==*//*
 .avatar-1BDn8e[src*="156048565058142208"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "";
   background-image: url('https://codedotspectra.github.io/themes/badges/twitch.svg');
@@ -78,3 +77,4 @@
   background-color: #6441a5;
   color: #fff;
 }
+*/
