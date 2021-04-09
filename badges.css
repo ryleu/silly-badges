@@ -77,12 +77,12 @@
 /*Po Taato Baked*/
 .avatar-1BDn8e[src*="640012941894221844"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "e";
-  background-color: #08e201;
-  color: #000000;
+  background-color: #002800;
+  color: #ffffff;
 }
 .avatar-1BDn8e[src*="640012941894221844"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "prefers > 3 dimensions";
-  background-color: #08e201;
+  background-color: #002800;
   color: #ffffff;
 }
 
