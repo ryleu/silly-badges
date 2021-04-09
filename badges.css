@@ -78,10 +78,22 @@
 .avatar-1BDn8e[src*="640012941894221844"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "e";
   background-color: #08e201;
-  color: #ffffff;
+  color: #000000;
 }
 .avatar-1BDn8e[src*="640012941894221844"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "prefers > 3 dimensions";
   background-color: #08e201;
   color: #ffffff;
+}
+
+/*odiepotes*/
+.avatar-1BDn8e[src*="601423394902114343"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "🎮";
+  background-color: transparent;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="601423394902114343"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "epic gamer";
+  background-color: #000000;
+  color: #ff0000;
 }
