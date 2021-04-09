@@ -1,26 +1,36 @@
 .avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   display: inline-block;
+  border-radius: 4px;
+  padding: 2px 5px;
+  background-image: none!important;
+  background-color: #0d0d0d;
+  font-size: 12px;
+  color: #4ce949;
   height: 14px;
-  width: 14px;
   line-height: 14px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url('');
   position: relative;
   top: 2px;
   margin-left: 5px;
 }
 .avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
-  width: auto;
+  display: inline-block;
   border-radius: 4px;
   padding: 2px 5px;
   background-image: none!important;
   background-color: #0d0d0d;
-  color: #fff;
   font-size: 12px;
-  top: -1px;
-  font-weight: normal;
+  color: #4ce949;
+  height: 14px;
+  line-height: 14px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+  top: 2px;
+  margin-left: 5px;
   animation-timing-function: linear;
   transition: 
     color .2s ease,
@@ -42,14 +52,8 @@
 
 
 /*FourInchKnife*/
-.avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
-  background-image: url('https://raw.githack.com/FourInchKnife/nocturnal-edit/master/1337hax.svg');}
+.avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "</>";}
 .avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "Absolute Gamer";
   animation: fadeIn .5s linear 1;
-  color: #ff8080;
-  width: 75px;
-  text-align: center;
-  background-color: transparent;
-  background-image: url('https://i.imgur.com/bzmEwnm.png') !important;
 }
