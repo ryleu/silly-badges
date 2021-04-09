@@ -1,4 +1,5 @@
 .avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  font-family: "Whitney","Helvetica Neue","Helvetica","Arial","sans-serif";
   display: inline-block;
   border-radius: 4px;
   padding: 2px 5px;
@@ -14,6 +15,7 @@
   margin-left: 5px;
 }
 .avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  font-family: "Whitney","Helvetica Neue","Helvetica","Arial","sans-serif";
   display: inline-block;
   border-radius: 4px;
   padding: 2px 5px;
@@ -55,7 +57,7 @@
   color: #4ce949;
 }
 .avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
-  content: "1337 hax";
+  content: "<1337 hax>";
   background-color: #0d0d0d;
   color: #4ce949;
 }
