@@ -3,9 +3,7 @@
   border-radius: 4px;
   padding: 2px 5px;
   background-image: none!important;
-  background-color: #0d0d0d;
   font-size: 12px;
-  color: #4ce949;
   height: 14px;
   line-height: 14px;
   background-position: center;
@@ -20,9 +18,7 @@
   border-radius: 4px;
   padding: 2px 5px;
   background-image: none!important;
-  background-color: #0d0d0d;
   font-size: 12px;
-  color: #4ce949;
   height: 14px;
   line-height: 14px;
   background-position: center;
@@ -32,6 +28,7 @@
   top: 2px;
   margin-left: 5px;
   animation-timing-function: linear;
+  animation: fadeIn .5s linear 1;
   transition: 
     color .2s ease,
     background-color .2s ease;
@@ -52,8 +49,13 @@
 
 
 /*FourInchKnife*/
-.avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "</>";}
+.avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "</>";
+  background-color: #0d0d0d;
+  color: #4ce949;
+}
 .avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "Absolute Gamer";
-  animation: fadeIn .5s linear 1;
+  background-color: #0d0d0d;
+  color: #4ce949;
 }
