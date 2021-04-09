@@ -59,3 +59,15 @@
   background-color: #0d0d0d;
   color: #4ce949;
 }
+
+/*GSG_Shady*/
+.avatar-1BDn8e[src*="242743468856836098"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "🍆";
+  background-color: transparent;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="242743468856836098"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "Daddy";
+  background-color: #f81894;
+  color: #ffffff;
+}
