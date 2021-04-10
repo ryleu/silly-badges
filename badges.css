@@ -111,3 +111,17 @@
   background-color: #000000;
   color: #ffffff;
 }
+
+/*quinn the otter*/
+.avatar-1BDn8e[src*="242102947096297482"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "🏳️‍🌈";
+  background-color: #ffffff;
+  color: #ff0000;
+}
+
+.avatar-1BDn8e[src*="242102947096297482"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "gay";
+  background-color: #ffffff;
+  color: #ff0004;
+  animation: rainbow 3s linear 1;
+}
