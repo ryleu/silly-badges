@@ -99,3 +99,15 @@
   background-color: #ff0000;
   color: #ffffff;
 }
+
+/*nMarkov*/
+.avatar-1BDn8e[src*="569277281046888488"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "❌🧠";
+  background-color: transparent;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="569277281046888488"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "\"I just had a huge fart\"";
+  background-color: #000000;
+  color: #ffffff;
+}
