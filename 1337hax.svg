@@ -1,6 +1,0 @@
-<svg width="336.0400024414062px" height="200.03999023437498px" xmlns="http://www.w3.org/2000/svg" viewBox="81.97999877929689 -25.01999511718749 336.0400024414062 200.03999023437498" style="background: rgba(255, 255, 255, 0) none repeat scroll 0% 0%;" preserveAspectRatio="xMidYMid"><defs><filter id="editing-hover" x="-100%" y="-100%" width="300%" height="300%"><feFlood flood-color="rgba(0.2672445106592504%,25.98095993768601%,0%,0.457)" result="flood"></feFlood><feComposite operator="in" in2="SourceAlpha" in="flood" result="shadow"></feComposite><feOffset dx="-4" dy="-4" in="SourceGraphic" result="offset-1"></feOffset><feOffset dx="4" dy="4" in="shadow" result="offset-2"></feOffset><feMerge><feMergeNode in="offset-2"></feMergeNode><feMergeNode in="offset-1"></feMergeNode></feMerge></filter></defs><g filter="url(#editing-hover)"><g transform="translate(134.69000911712646, 122.57323884963989)"><path d="M5.21-30.41L5.21-43.80L76.17-74.20L76.17-61.00L19.23-37.07L76.17-13.27L76.17 0L5.21-30.41ZM103.72 6.47L91.79 6.47L126.25-97.50L138.82-97.50L103.72 6.47ZM225.41-43.80L225.41-30.41L154.44 0L154.44-13.27L211.25-37.07L154.44-61.00L154.44-74.20L225.41-43.80Z" fill="#2cff19"></path></g></g><style>text {
-  font-size: 64px;
-  font-family: Arial Black;
-  dominant-baseline: central;
-  text-anchor: middle;
-}</style></svg>
