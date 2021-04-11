@@ -5,13 +5,9 @@
   display: inline-block;
   border-radius: 4px;
   padding: 2px 5px;
-  background-image: none!important;
   font-size: 12px;
   height: 14px;
   line-height: 14px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: relative;
   top: 2px;
   margin-left: 5px;
@@ -21,13 +17,9 @@
   display: inline-block;
   border-radius: 4px;
   padding: 2px 5px;
-  background-image: none!important;
   font-size: 12px;
   height: 14px;
   line-height: 14px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: relative;
   top: 2px;
   margin-left: 5px;
