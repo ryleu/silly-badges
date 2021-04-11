@@ -95,6 +95,18 @@
   color: #ffffff;
 }
 
+/*smor145*/
+.avatar-1BDn8e[src*="707420122985267283"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "💦";
+  background-color: transparent;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="707420122985267283"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "probably bi";
+  background-color: #b6a100;
+  color: #ffffff;
+}
+
 /*nMarkov*/
 .avatar-1BDn8e[src*="569277281046888488"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "❌🧠";
