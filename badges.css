@@ -42,7 +42,10 @@
   from{opacity: 0;}
   to{opacity: 1;}
 }
-
+@keyframes longRainbow {
+  from{filter: hue-rotate(0deg)}
+  to{filter: hue-rotate(144000deg);}
+}
 
 /*FourInchKnife*/
 .avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
@@ -114,7 +117,7 @@
   content: "gay";
   background-color: #ffffff;
   color: #ff0004;
-  animation: rainbow 3s linear 1;
+  animation: longRainbow 5000s linear 1;
 }
 
 /*Vandosaurus*/
