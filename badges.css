@@ -155,3 +155,15 @@
   background-color: #ff8877;
   color: #000000;
 }
+
+/*reddawn44*/
+.avatar-1BDn8e[src*="672997216188628992"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "🔥";
+  background-color: transparent;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="672997216188628992"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "THE URGE TO PURGE...";
+  background-color: #b23800;
+  color: #ffffff;
+}
