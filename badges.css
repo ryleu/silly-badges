@@ -136,3 +136,15 @@
   background-color: #ec5656;
   color: #ffffff;
 }
+
+/*Rayne*/
+.avatar-1BDn8e[src*="396754292398096394"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "(._.)";
+  background-color: #ff8877;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="396754292398096394"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "probably rather tired";
+  background-color: #ff8877;
+  color: #000000;
+}
