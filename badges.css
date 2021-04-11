@@ -118,10 +118,21 @@
   background-color: #ffffff;
   color: #ff0000;
 }
-
 .avatar-1BDn8e[src*="242102947096297482"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "gay";
   background-color: #ffffff;
   color: #ff0004;
   animation: rainbow 3s linear 1;
+}
+
+/*Vandosaurus*/
+.avatar-1BDn8e[src*="406214398986682368"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "🍑";
+  background-color: transparent;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="406214398986682368"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "doesn't have an ass";
+  background-color: #ec5656;
+  color: #ffffff;
 }
