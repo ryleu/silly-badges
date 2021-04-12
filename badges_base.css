@@ -1,0 +1,48 @@
+/*import this stylesheet into anything that adds badges*/
+
+.avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  font-family: "Whitney","Helvetica Neue","Helvetica","Arial","sans-serif";
+  display: inline-block;
+  border-radius: 4px;
+  padding: 2px 5px;
+  font-size: 12px;
+  height: 14px;
+  line-height: 14px;
+  position: relative;
+  top: 2px;
+  margin-left: 5px;
+}
+.avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  font-family: "Whitney","Helvetica Neue","Helvetica","Arial","sans-serif";
+  display: inline-block;
+  border-radius: 4px;
+  padding: 2px 5px;
+  font-size: 12px;
+  height: 14px;
+  line-height: 14px;
+  position: relative;
+  top: 2px;
+  margin-left: 5px;
+  animation-timing-function: linear;
+  animation: fadeIn .5s linear 1;
+  transition: 
+    color .2s ease,
+    background-color .2s ease;
+}
+
+@keyframes rainbow {
+  from{filter: hue-rotate(0deg)}
+  to{filter: hue-rotate(360deg);}
+}
+@keyframes scaleIn {
+  from{transform: scale(.1);}
+  to{transform: scale(1);}
+}
+@keyframes fadeIn {
+  from{opacity: 0;}
+  to{opacity: 1;}
+}
+@keyframes longRainbow {
+  from{filter: hue-rotate(0deg)}
+  to{filter: hue-rotate(144000deg);}
+}
