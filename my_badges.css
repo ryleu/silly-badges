@@ -1,5 +1,3 @@
-@import url('https://rawcdn.githack.com/FourInchKnife/silly-badges/7d4f4c5ffb3e0845c63793fa00371763e3a35cd0/badges_base.css');
-
 /*FourInchKnife*/
 .avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "</>";
