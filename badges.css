@@ -59,6 +59,18 @@
   color: #4ce949;
 }
 
+/*F̸o̷u̵r̷I̶n̸c̶h̷K̶n̸i̴f̷e̶*/
+.avatar-1BDn8e[src*="752183610605305917"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "<\\>";
+  background-color: #0d0d0d;
+  color: #4ce949;
+}
+.avatar-1BDn8e[src*="752183610605305917"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "<8008135>";
+  background-color: #0d0d0d;
+  color: #4ce949;
+}
+
 /*GSG_Shady*/
 .avatar-1BDn8e[src*="242743468856836098"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "🍆";
