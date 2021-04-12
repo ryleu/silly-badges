@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'twitter_color_emojiregular';
-    src: url('twittercoloremoji-svginot-webfont.woff2') format('woff2'),
+    src: url('https://rawcdn.githack.com/FourInchKnife/silly-badges/13ab94ca0d8d99d42dad67c0e93c1e5f5cfb10b0/twemoji/twittercoloremoji-svginot-webfont.woff2') format('woff2'),
          url('https://rawcdn.githack.com/FourInchKnife/silly-badges/13ab94ca0d8d99d42dad67c0e93c1e5f5cfb10b0/twemoji/twittercoloremoji-svginot-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
