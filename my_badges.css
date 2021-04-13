@@ -46,6 +46,18 @@
   color: #ffffff;
 }
 
+/*Po Taato Baked The Second*/
+.avatar-1BDn8e[src*="794649411551756320"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "π";
+  background-color: #002800;
+  color: #ffffff;
+}
+.avatar-1BDn8e[src*="794649411551756320"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "prefers < -3 dimensions";
+  background-color: #002800;
+  color: #ffffff;
+}
+
 /*odiepotes*/
 .avatar-1BDn8e[src*="601423394902114343"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "🎮";
@@ -115,6 +127,18 @@
 }
 .avatar-1BDn8e[src*="396754292398096394"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "probably rather tired";
+  background-color: #ff8877;
+  color: #000000;
+}
+
+/*rayne2.0*/
+.avatar-1BDn8e[src*="815781763598647367"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "(^-^)";
+  background-color: #ff8877;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="815781763598647367"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "stupidly energetic";
   background-color: #ff8877;
   color: #000000;
 }
