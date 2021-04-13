@@ -1,0 +1,170 @@
+/*https://fourinchknife.github.io/silly-badges/stylus/my_badges.css*/
+
+/*FourInchKnife*/
+.avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "</>";
+  background-color: #0d0d0d;
+  color: #4ce949;
+}
+.avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "<1337_hax>";
+  background-color: #0d0d0d;
+  color: #4ce949;
+}
+
+/*F̸o̷u̵r̷I̶n̸c̶h̷K̶n̸i̴f̷e̶*/
+.avatar-1BDn8e[src*="752183610605305917"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "<\\>";
+  background-color: #0d0d0d;
+  color: #4ce949;
+}
+.avatar-1BDn8e[src*="752183610605305917"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "<8008135>";
+  background-color: #0d0d0d;
+  color: #4ce949;
+}
+
+/*GSG_Shady*/
+.avatar-1BDn8e[src*="242743468856836098"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "🍆";
+  background-color: transparent;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="242743468856836098"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "Daddy";
+  background-color: #f81894;
+  color: #ffffff;
+}
+
+/*Po Taato Baked*/
+.avatar-1BDn8e[src*="640012941894221844"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "e";
+  background-color: #002800;
+  color: #ffffff;
+}
+.avatar-1BDn8e[src*="640012941894221844"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "prefers > 3 dimensions";
+  background-color: #002800;
+  color: #ffffff;
+}
+
+/*Po Taato Baked The Second*/
+.avatar-1BDn8e[src*="794649411551756320"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "π";
+  background-color: #002800;
+  color: #ffffff;
+}
+.avatar-1BDn8e[src*="794649411551756320"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "prefers < -3 dimensions";
+  background-color: #002800;
+  color: #ffffff;
+}
+
+/*odiepotes*/
+.avatar-1BDn8e[src*="601423394902114343"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "🎮";
+  background-color: transparent;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="601423394902114343"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "epic gamer";
+  background-color: #ff0000;
+  color: #ffffff;
+}
+
+/*smor145*/
+.avatar-1BDn8e[src*="707420122985267283"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "💦";
+  background-color: transparent;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="707420122985267283"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "we think she's bi";
+  background-color: #b6a100;
+  color: #ffffff;
+}
+
+/*nMarkov*/
+.avatar-1BDn8e[src*="569277281046888488"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "❌🧠";
+  background-color: transparent;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="569277281046888488"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "\"I just had a huge fart\"";
+  background-color: #000000;
+  color: #ffffff;
+}
+
+/*quinn the otter*/
+.avatar-1BDn8e[src*="242102947096297482"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "🏳️‍🌈";
+  background-color: #ffffff;
+  color: #ff0000;
+}
+.avatar-1BDn8e[src*="242102947096297482"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "gay";
+  background-color: #ffffff;
+  color: #ff0004;
+  animation: longRainbow 5000s linear 1;
+}
+
+/*Vandosaurus*/
+.avatar-1BDn8e[src*="406214398986682368"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "🍑";
+  background-color: transparent;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="406214398986682368"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "doesn't have an ass";
+  background-color: #ec5656;
+  color: #ffffff;
+}
+
+/*Rayne*/
+.avatar-1BDn8e[src*="396754292398096394"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "(._.)";
+  background-color: #ff8877;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="396754292398096394"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "probably rather tired";
+  background-color: #ff8877;
+  color: #000000;
+}
+
+/*rayne2.0*/
+.avatar-1BDn8e[src*="815781763598647367"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "(^-^)";
+  background-color: #ff8877;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="815781763598647367"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "stupidly energetic";
+  background-color: #ff8877;
+  color: #000000;
+}
+
+/*reddawn44*/
+.avatar-1BDn8e[src*="672997216188628992"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "🔥";
+  background-color: transparent;
+  color: #000000;
+}
+.avatar-1BDn8e[src*="672997216188628992"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "THE URGE TO PURGE...";
+  background-color: #b23800;
+  color: #ffffff;
+}
+
+/*DionySUS*/
+.avatar-1BDn8e[src*="716071545134514317"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "sus";
+  background-color: #0d0d0d;
+  color: #ee0000;
+}
+.avatar-1BDn8e[src*="716071545134514317"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "suspicious";
+  background-color: #0d0d0d;
+  color: #ee0000;
+}

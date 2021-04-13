@@ -1,0 +1,20 @@
+/* ==UserStyle==
+@name Discord Silly Badges
+@namespace github.com/FourInchKnife/silly-badges
+@homepageURL https://github.com/FourInchKnife/silly-badges
+@version AutoUpdate
+@description This is stupid and probably doesn't work.
+@author FourInchKnife
+@license GNU-V3.0
+
+@preprocessor stylus
+
+==/UserStyle== */
+
+@-moz-document domain(discord.com) {
+
+/*Theme made by FourInchKnife @https://github.com/FourInchKnife/silly-badges*/
+
+/*GNU General Public License v3.0.*/
+
+@require('https://fourinchknife.github.io/silly-badges/stylus/main.css');

@@ -1,0 +1,7 @@
+/*https://fourinchknife.github.io/silly-badges/stylus/main.css*/
+
+/*Import for proper formatting*/
+@require('https://fourinchknife.github.io/silly-badges/stylus/base.css');
+
+/*Other imports for actual text*/
+@require('https://fourinchknife.github.io/silly-badges/stylus/my_badges.css');
