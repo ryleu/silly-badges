@@ -168,3 +168,15 @@
   background-color: #0d0d0d;
   color: #ee0000;
 }
+
+/*Ab00C*/
+.avatar-1BDn8e[src*="612003319799611400"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: ">>>";
+  background-color: #0d0d0d;
+  color: #ee0000;
+}
+.avatar-1BDn8e[src*="612003319799611400"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: ">>>print(\"hello world!\")";
+  background-color: #0d0d0d;
+  color: #ee0000;
+}
