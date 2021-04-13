@@ -130,3 +130,15 @@
   background-color: #b23800;
   color: #ffffff;
 }
+
+/*DionySUS*/
+.avatar-1BDn8e[src*="716071545134514317"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "sus";
+  background-color: #0d0d0d;
+  color: #ee0000;
+}
+.avatar-1BDn8e[src*="716071545134514317"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "suspicious";
+  background-color: #0d0d0d;
+  color: #ee0000;
+}
