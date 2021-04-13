@@ -13,8 +13,9 @@
 
 @-moz-document domain(discord.com) {
 
-/*Theme made by FourInchKnife @https://github.com/FourInchKnife/silly-badges*/
+  /*Theme made by FourInchKnife @https://github.com/FourInchKnife/silly-badges*/
 
-/*GNU General Public License v3.0.*/
+  /*GNU General Public License v3.0.*/
 
-@require('https://fourinchknife.github.io/silly-badges/stylus/main.css');
+  @require('https://fourinchknife.github.io/silly-badges/stylus/main.css');
+}
