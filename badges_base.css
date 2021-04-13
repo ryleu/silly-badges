@@ -1,4 +1,4 @@
-@import url('https://rawcdn.githack.com/FourInchKnife/silly-badges/6b994232be7280015967ce28f354e0e546117726/twemoji/stylesheet.css');
+@import url('https://fourinchknife.github.io/silly-badges/twemoji/stylesheet.css');
 /*import this stylesheet into anything that adds badges*/
 
 .avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
