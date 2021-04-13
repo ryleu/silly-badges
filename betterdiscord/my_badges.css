@@ -1,5 +1,19 @@
 /*https://fourinchknife.github.io/silly-badges/betterdiscord/my_badges.css*/
 
+@keyframes fourinchknifeExpand {
+  0%   {content: "</>"; font-family: "Courier New";}
+  10%  {content: "<1>";}
+  20%  {content: "<13>";}
+  30%  {content: "<133>";}
+  40%  {content: "<1337>";}
+  50%  {content: "<1337_>";}
+  60%  {content: "<1337_h>";}
+  70%  {content: "<1337_ha>";}
+  80%  {content: "<1337_hax>";}
+  90%  {content: "<1337_hax0>";}
+  100% {content: "<1337_hax0r>";}
+}
+
 /*FourInchKnife*/
 .avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "</>";
@@ -7,9 +21,12 @@
   color: #4ce949;
 }
 .avatar-1BDn8e[src*="600130839870963725"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
-  content: "<1337_hax>";
+  content: "<1337_hax0r>";
   background-color: #0d0d0d;
   color: #4ce949;
+  animation: fourinchknifeExpand .5s linear 1;
+  transition: content 1s ease;
+  font-family: "Courier New", "monospace";
 }
 
 /*F̸o̷u̵r̷I̶n̸c̶h̷K̶n̸i̴f̷e̶*/
@@ -106,7 +123,7 @@
   content: "gay";
   background-color: #ffffff;
   color: #ff0004;
-  animation: longRainbow 5000s linear 1;
+  animation: infinite rainbow 1s linear;
 }
 
 /*Vandosaurus*/
@@ -172,11 +189,11 @@
 /*Ab00C*/
 .avatar-1BDn8e[src*="612003319799611400"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: ">>>";
-  background-color: #0d0d0d;
-  color: #ee0000;
+  background-color: #00ff00;
+  color: #ffffff;
 }
 .avatar-1BDn8e[src*="612003319799611400"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: ">>>print(\"hello world!\")";
-  background-color: #0d0d0d;
-  color: #ee0000;
+  background-color: #00ff00;
+  color: #ffffff;
 }
