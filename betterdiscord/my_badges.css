@@ -55,6 +55,7 @@
 .avatar-1BDn8e[src*="242743468856836098"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   background-image: url("https://twemoji.maxcdn.com/2/svg/1f346.svg");
   background-repeat: no-repeat;
+  background-size: contain;
   content: "  ";
   font-family: "monospace";
   background-color: transparent;
@@ -95,6 +96,7 @@
 .avatar-1BDn8e[src*="601423394902114343"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   background-image: url("https://twemoji.maxcdn.com/2/svg/1f3ae.svg");
   background-repeat: no-repeat;
+  background-size: contain;
   content: "  ";
   font-family: "monospace";
   background-color: transparent;
@@ -111,6 +113,7 @@
 .avatar-1BDn8e[src*="707420122985267283"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   background-image: url("https://twemoji.maxcdn.com/2/svg/1f4a6.svg");
   background-repeat: no-repeat;
+  background-size: contain;
   content: "  ";
   font-family: "monospace";
   background-color: transparent;
@@ -150,6 +153,7 @@
 .avatar-1BDn8e[src*="406214398986682368"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   background-image: url("https://twemoji.maxcdn.com/2/svg/1F351.svg");
   background-repeat: no-repeat;
+  background-size: contain;
   content: "  ";
   font-family: "monospace";
   background-color: transparent;
@@ -190,6 +194,7 @@
 .avatar-1BDn8e[src*="672997216188628992"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   background-image: url("https://twemoji.maxcdn.com/2/svg/1F525.svg");
   background-repeat: no-repeat;
+  background-size: contain;
   content: "  ";
   font-family: "monospace";
   background-color: transparent;
