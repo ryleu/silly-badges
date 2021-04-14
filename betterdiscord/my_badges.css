@@ -47,7 +47,7 @@
   background-color: #0d0d0d;
   color: #4ce949;
   animation: fourinchaltExpand .5s linear 1;
-  transition: content 1s ease;
+  transition: content .6s ease;
   font-family: "Courier New", "monospace";
 }
 
