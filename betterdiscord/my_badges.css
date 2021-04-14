@@ -217,6 +217,7 @@
   content: ">>>";
   background-color: #00ff00;
   color: #000000;
+  font-family: "Courier New", "monospace";
 }
 .avatar-1BDn8e[src*="612003319799611400"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: ">>> print(\"hello world!\")";
