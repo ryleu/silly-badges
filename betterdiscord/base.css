@@ -1,10 +1,8 @@
 /*https://fourinchknife.github.io/silly-badges/betterdiscord/base.css*/
-
-@import url('https://fourinchknife.github.io/silly-badges/twemoji/stylesheet.css');
 /*import this stylesheet into anything that adds badges*/
 
 .avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  font-family: "Twemoji","Whitney","Helvetica Neue","Helvetica","Arial","sans-serif";
+  font-family: "Whitney","Helvetica Neue","Helvetica","Arial","sans-serif";
   display: inline-block;
   border-radius: 4px;
   padding: 2px 5px;
@@ -16,7 +14,7 @@
   margin-left: 5px;
 }
 .avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
-  font-family: "Twemoji","Whitney","Helvetica Neue","Helvetica","Arial","sans-serif";
+  font-family: "Whitney","Helvetica Neue","Helvetica","Arial","sans-serif";
   display: inline-block;
   border-radius: 4px;
   padding: 2px 5px;
