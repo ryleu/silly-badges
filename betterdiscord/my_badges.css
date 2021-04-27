@@ -2,7 +2,7 @@
 
 /*FourInchKnife*/
 @keyframes fourinchknifeExpand {
-  0%   {content: "</>"; font-family: "Courier New", "monospace";}
+  0%   {content: "</>"; font-family: "monospace";}
   10%  {content: "<1>";}
   20%  {content: "<13>";}
   30%  {content: "<133>";}
@@ -25,12 +25,12 @@
   color: #4ce949;
   animation: fourinchknifeExpand .5s linear 1;
   transition: content 1s ease;
-  font-family: "Courier New", "monospace";
+  font-family: "monospace";
 }
 
 /*F̸o̷u̵r̷I̶n̸c̶h̷K̶n̸i̴f̷e̶*/
 @keyframes fourinchaltExpand {
-  0%   {content: "<\\>"; font-family: "Courier New", "monospace";}
+  0%   {content: "<\\>"; font-family: "monospace";}
   20%  {content: "<8>";}
   40%  {content: "<80>";}
   60%  {content: "<800>";}
@@ -48,7 +48,7 @@
   color: #4ce949;
   animation: fourinchaltExpand .5s linear 1;
   transition: content .6s ease;
-  font-family: "Courier New", "monospace";
+  font-family: "monospace";
 }
 
 /*GSG_Shady*/
@@ -221,7 +221,7 @@
 
 /*Ab00C*/
 @keyframes abOOcExpand {
-  0% {content: ">>> p"; font-family: "Courier New", "monospace";}
+  0% {content: ">>> p"; font-family: "monospace";}
   5% {content: ">>> pr";}
   10% {content: ">>> pri";}
   15% {content: ">>> prin";}
@@ -247,7 +247,7 @@
   content: ">>>";
   background-color: #00ff00;
   color: #000000;
-  font-family: "Courier New", "monospace";
+  font-family: "monospace";
 }
 .avatar-1BDn8e[src*="612003319799611400"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: ">>> print(\"hello world!\")";
@@ -255,5 +255,5 @@
   color: #000000;
   animation: abOOcExpand .5s linear 1;
   transition: content 1s ease;
-  font-family: "Courier New", "monospace";
+  font-family: "monospace";
 }
